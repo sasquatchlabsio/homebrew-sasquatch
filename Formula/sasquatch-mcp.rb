@@ -18,7 +18,7 @@ class SasquatchMcp < Formula
   version "0.3.43"
 
   url "https://github.com/sasquatchlabsio/sasquatch-mcp/releases/download/v#{version}/sasquatch-mcp-#{version}.tar.gz"
-  sha256 "cb398388c3e8276215a7ee930f59e7c58184e6b8b36d5cdadfba59a838d8d789"
+  sha256 "9fb46d49c6b2cb34733f9ca045709f49eea4b54b44b87de6e35a39c7f584e220"
 
   depends_on "rust" => :build
 
