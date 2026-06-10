@@ -15,10 +15,10 @@ class SasquatchMcp < Formula
   desc "Model Context Protocol server for Sasquatch's compressed log / trace / metric archive"
   homepage "https://sasquatchlabs.io"
   license "MIT"
-  version "0.4.22"
+  version "0.4.23"
 
   url "https://github.com/sasquatchlabsio/sasquatch-mcp/releases/download/v#{version}/sasquatch-mcp-#{version}.tar.gz"
-  sha256 "e1f6e00423993ca15cf8ebd0b735d86e79eae27e09af60ef3bb1b91bbcd47123"
+  sha256 "f0344278b8b0d9fe16594e24f5f5092e592f5d560799a8382229f7600e15f456"
 
   depends_on "rust" => :build
 
